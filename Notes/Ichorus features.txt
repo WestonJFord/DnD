@@ -4,15 +4,18 @@ Quick notes:
 		All hits from attack roll: +2 bludgeoning damage (Genie's wrath) (once/turn)
 		Crimson Rite: attacks with active weapon are magical and deal extra damage equal to your hemocraft die (1d4) of the rite damage type
 
-		rapier damage: (with Crimson Rite): 1d8+6 pierce (magical) + 2 bludgeoning + (1d4 lightning)
+		rapier damage: (with Crimson Rite): 1d8+7 pierce (magical) + 2 bludgeoning + (1d4 lightning)
+
+		hit calculations:
+		16 + 7 = 23
 
 		damage calculations:
-			13 pierce, 2 bludgeoning, 4 lightning = 19 damage
+			4 + 7 magic pierce + 2 bludgeoning + 1 lightning = 14dmg
 
 	On failing any attack roll, ability check, or saving throw:
 		You can gain a bonus to the roll equal to the number of visible allies within 30 feet (<=5) once per short/long rest (Saving Face)
 
-	crit damage: max damage hit + normal damage hit
+	crit damage: add max damage to regular damage
 
 Hobgoblin:
 
@@ -83,7 +86,9 @@ Blood Hunter:
 
 					A Remove Curse cast on the target ends this spell early.
 
-					At Higher Levels. When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours.
+					concentration up to 1 hour
+
+					At Higher Levels: When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours.
 
 				Sanctuary:
 					As a bonus action, you ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a fireball.
