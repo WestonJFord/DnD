@@ -3,11 +3,12 @@ Quick notes:
 		With Rapier (only): +2 bonus damage (dueling fighting style)
 		All hits from attack roll: +2 bludgeoning damage (Genie's wrath) (once/turn)
 		Crimson Rite: attacks with active weapon are magical and deal extra damage equal to your hemocraft die (1d4) of the rite damage type
+		Extra attack: Can attack twice during an attack action
 
 		rapier damage: (with Crimson Rite): 1d8+7 pierce (magical) + 2 bludgeoning + (1d4 lightning)
 
 		hit calculations:
-		16 + 7 = 23
+			16 + 7 = 23
 
 		damage calculations:
 			4 + 7 magic pierce + 2 bludgeoning + 1 lightning = 14dmg
@@ -80,7 +81,8 @@ Blood Hunter:
 					
 			1st level:
 				Hex:
-					As a bonus action, you place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.
+					Casting time: bonus action
+					You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.
 
 					If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.
 
@@ -91,9 +93,13 @@ Blood Hunter:
 					At Higher Levels: When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours.
 
 				Sanctuary:
-					As a bonus action, you ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a fireball.
+					Casting time: bonus action
+					You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a fireball.
 
 					If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
+				
+				Protection from Evil & Good:
+
 
 Resources:
 	wiki:
