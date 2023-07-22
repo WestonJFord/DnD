@@ -14,7 +14,7 @@ Quick notes:
 			4 + 7 magic pierce + 2 bludgeoning + 1 lightning = 14dmg
 
 	On failing any attack roll, ability check, or saving throw:
-		You can gain a bonus to the roll equal to the number of visible allies within 30 feet (<=5) once per short/long rest (Saving Face)
+		You can gain a bonus to the roll equal to the number of visible allies within 30 feet (<=5) once per short/long rest (Saving Face) (used)
 
 	crit damage: add max damage to regular damage
 
@@ -98,7 +98,12 @@ Blood Hunter:
 
 					If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
 				
-				Protection from Evil & Good:
+				Armor of Agathys:
+					Casting time: 1 action
+					Duration: 1 hour
+					A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+					
+					At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot.
 
 
 Resources:
