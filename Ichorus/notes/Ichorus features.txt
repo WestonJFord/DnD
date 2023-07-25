@@ -8,13 +8,15 @@ Quick notes:
 		rapier damage: (with Crimson Rite): 1d8+7 pierce (magical) + 2 bludgeoning + (1d4 lightning)
 
 		hit calculations:
-			16 + 7 = 23
+			attack 1: 14 + 8 = 22
+			attack 2: 3 + 8 = 11
 
 		damage calculations:
-			4 + 7 magic pierce + 2 bludgeoning + 1 lightning = 14dmg
+			hit 1: 4 + 7 magic pierce + 2 bludgeoning + 1 lightning = 14dmg
+			hit 2: 
 
 	On failing any attack roll, ability check, or saving throw:
-		You can gain a bonus to the roll equal to the number of visible allies within 30 feet (<=5) once per short/long rest (Saving Face) (used)
+		You can gain a bonus to the roll equal to the number of visible allies within 30 feet (<=5) once per short/long rest (Saving Face)
 
 	crit damage: add max damage to regular damage
 
