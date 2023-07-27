@@ -1,11 +1,59 @@
-Ability Scores:
-    11
-    15
-    13
-    14
-    12
-    12
+Paladin:
+    Divine Sense:
+        As an action, detect and know the type and location of any celestial, fiend, or undead within 60 feet that is not behind total cover. Does not reveal identity. Also detects any place that has been consecrated or desecrated within range.
+        Can be used 1 + cha mod per long rest.
 
+    Lay on Hands:
+        As an action, touch a creature to restore a number of hit points, or expend 5 hp from the pool to cure the target of one disease or neutralize one poison affecting it.
+        hp recovery pool = paladin level * 5, replenishes on long rest.
+        Has no effect on undead or constructs
+    
+    Dueling fighting style:
+        When holding a melee weapon in one hand and no other melee weapons, +2 bonus to damage rolls with that weapon.
+
+    Spellcasting
+        Max prepared spells = Cha mod + 1/2 Paladin level, rounded down (min 1)
+        Spell DC = 8 + prof bonus + Cha mod
+        Spell attack mod = prof bonus + Cha mod
+    
+    Divine Smite:
+            On hit, add 1d8 + spell level radiant damage (up to 5d8).
+            +1d8 on undead or fiend.
+    
+    Oath of the Crown:
+        Tenets:
+            Law
+            Loyalty
+            Courage
+            Responsibility
+
+        Oath Spells:
+            Oath spells are always prepared and do not count against prepared spells
+            Lvl 3:
+                Command, Compelled Duel
+            Lvl 5:
+                Warding Bond, Zone of Truth
+                
+        Channel Divinity:
+            One per long rest
+
+            Champion Challenge:
+                As a bonus action, each creature of your choice that you can see within 30 feet of you must make a Wis saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. The effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.
+
+            Turn the Tide:
+                As bonus action, each creature of your choice that can hear you within 30 feet of you regains 1d6+cha mod hp if it has less than half hp.
+            
+            Restore spell slot:
+                Expend a use of Channel Divinity to regain one expended spell slot up to the level of half proficiency bonus (rounded up)
+        
+    Extra Attack:
+        Attack twice instead of once
+
+    Aura of Protection:
+        You and allies within 10 ft gain your Cha mod as a bonus to saving throws
+        
+
+Ability Scores:
     14 con
     15 cha
     11 int
