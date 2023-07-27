@@ -1,3 +1,18 @@
+Ability Scores:
+    11
+    15
+    13
+    14
+    12
+    12
+
+    14 con
+    15 cha
+    11 int
+    16 str
+    12 wis
+    13 dex
+
 Resources:
     Half-Elf:
         http://dnd5e.wikidot.com/half-elf
