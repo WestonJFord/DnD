@@ -9,8 +9,8 @@ Quick notes:
 		rapier damage: (with Crimson Rite): 1d8+7 pierce (magical) + 2 bludgeoning + (1d4 lightning)
 
 		hit calculations:
-			attack 1: 13 + 8 = 21
-			attack 2: 5 + 8 = 13
+			attack 1: 15 + 8 = 23
+			attack 2: 17 + 8 = 25
 
 			1, 4, 4
 
@@ -22,6 +22,9 @@ Quick notes:
 		You can gain a bonus to the roll equal to the number of visible allies within 30 feet (<=5) once per short/long rest (Saving Face)
 
 	crit damage: add max damage to regular damage
+
+Tough feat:
+	+2 max hp per level
 
 Hobgoblin:
 
@@ -69,15 +72,8 @@ Blood Hunter:
 	Crimson Rites
 
 	Order of the Profane Soul:
-		Genie (Dao)
-			Vessel: Ornate Lantern
-				Bottled Respite: As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a long rest.
-
-				Genie's Wrath: Once during each of your turns when you hit with an attack roll, you can deal extra bludgeoning (dao) damage to the target equal to your proficiency bonus.
-
-				The vessel's AC equals your spell save DC. Its hit points equal your warlock level plus your proficiency bonus, and it is immune to poison and psychic damage. If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and the previous vessel is destroyed if it still exists. The vessel vanishes in a flare of elemental power when you die.
-
-			Rite Focus: Starting at 3rd level, your weapon becomes a conduit for the power of your pact with your chosen patron. While you have an active crimson rite, you can use your weapon as a spellcasting focus for your warlock spells, and you gain a specific benefit based on your chosen pact.
+		Rite Focus:
+			Starting at 3rd level, your weapon becomes a conduit for the power of your pact with your chosen patron. While you have an active crimson rite, you can use your weapon as a spellcasting focus for your warlock spells, and you gain a specific benefit based on your chosen pact.
 				The Genie: As a bonus action, you expend a use of your Blood Maledict feature to give yourself a flying speed of 30 feet, which lasts for a number of rounds equal to your Hemocraft modifier (minimum of 1 round).
 		
 		Known spells:
@@ -116,19 +112,27 @@ Blood Hunter:
 				
 				Phantasmal Force:
 					Casting Time: 1 action
-				Range: 60 feet
-				Components: V, S, M (a bit of fleece)
-				Duration: Concentration, up to 1 minute
-				
-				You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
+					Range: 60 feet
+					Components: V, S, M (a bit of fleece)
+					Duration: Concentration, up to 1 minute
+					
+					You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
 
-				The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
+					The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
 
-				The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
+					The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
 
-				While a target is affected by the spell, the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall; it was pushed, it slipped, or a strong wind might have knocked it off.
+					While a target is affected by the spell, the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall; it was pushed, it slipped, or a strong wind might have knocked it off.
 
-				An affected target is so convinced of the phantasm’s reality that it can even take damage from the illusion. A phantasm created to appear as a creature can attack the target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the phantasm can deal 1d6 psychic damage to the target if it is in the phantasm’s area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.
+					An affected target is so convinced of the phantasm’s reality that it can even take damage from the illusion. A phantasm created to appear as a creature can attack the target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the phantasm can deal 1d6 psychic damage to the target if it is in the phantasm’s area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.
+
+				Misty Step:
+					Casting Time: 1 bonus action
+					Range: Self
+					Components: Verbal
+					Duration: Instantaneous
+
+					Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
 Resources:
 	wiki:
