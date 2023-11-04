@@ -1,22 +1,17 @@
 Quick notes:
 	On attack:
 		With Rapier (only): +2 bonus damage (dueling fighting style)
-		All hits from attack roll: +2 bludgeoning damage (Genie's wrath) (once/turn)
-		Crimson Rite: attacks with active weapon are magical and deal extra damage equal to your hemocraft die (1d4) of the rite damage type
+		Crimson Rite: attacks with active weapon are magical and deal extra damage equal to your hemocraft die (1d6) of the rite damage type
 		Extra attack: Can attack twice during an attack action
 		Mystic Frenzy: When you use your action to cast a cantrip, you can immediately make one weapon attack as a bonus action
 
-		rapier damage: (with Crimson Rite): 1d8+7 pierce (magical) + 2 bludgeoning + (1d4 lightning)
+		rapier damage: (with Crimson Rite): 1d8+7 pierce (magical) + (1d6 lightning/fire)
 
 		hit calculations:
-			attack 1: 15 + 8 = 23
-			attack 2: 17 + 8 = 25
+			attack 1: 7 + 8 = 15
+			attack 2: 16 + 8 = 24
 
 			1, 4, 4
-
-		damage calculations:
-			hit 1: 4 + 7 magic pierce + 2 bludgeoning + 1 lightning = 14dmg
-			hit 2: 
 
 	On failing any attack roll, ability check, or saving throw:
 		You can gain a bonus to the roll equal to the number of visible allies within 30 feet (<=5) once per short/long rest (Saving Face)
@@ -25,6 +20,8 @@ Quick notes:
 
 Tough feat:
 	+2 max hp per level
+
+Adamantine half-plate: All crits against you become normal hits
 
 Hobgoblin:
 
@@ -39,8 +36,6 @@ Hobgoblin:
 	Ability Score Increase. Your Constitution score increases by 2, and your Intelligence score increases by 1
 
 	Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-	Martial Training. You are proficient with two martial weapons of your choice and with light armor. (Rapier & Longbow(?))
 
 Blood Hunter:
 	Dueling fighting style: When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
@@ -60,7 +55,7 @@ Blood Hunter:
 
 			Amplify. You can first cause the cursed creature to move up to half its speed, and you grant a bonus to its attack roll equal to your Hemocraft modifier (minimum of +1).
 
-	Crimson Rite: at 2nd level, you learn to invoke a rite of hemocraft that infuses your weapon strikes with 1d4 elemental energy. As a bonus action, you can activate any rite you know on one weapon you’re holding. The effect of the rite lasts until you finish a short or long rest. When you activate a rite, you take necrotic damage equal to one roll of your hemocraft die. This damage can’t be reduced in any way.
+	Crimson Rite: at 2nd level, you learn to invoke a rite of hemocraft that infuses your weapon strikes with 1d6 elemental energy. As a bonus action, you can activate any rite you know on one weapon you’re holding. The effect of the rite lasts until you finish a short or long rest. When you activate a rite, you take necrotic damage equal to one roll of your hemocraft die. This damage can’t be reduced in any way.
 
 	While the rite is in effect, attacks you make with this weapon are magical, and deal extra damage equal to your hemocraft die of the type determined by the chosen rite. A weapon can hold only one active rite at a time. Other creatures can’t gain the benefit of your rite.
 
@@ -98,7 +93,10 @@ Blood Hunter:
 					At Higher Levels: When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours.
 
 				Sanctuary:
-					Casting time: bonus action
+					Casting Time: 1 bonus action
+					Range: 30 feet
+					Duration: 1 minute
+
 					You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a fireball.
 
 					If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
@@ -106,9 +104,9 @@ Blood Hunter:
 				Armor of Agathys:
 					Casting time: 1 action
 					Duration: 1 hour
-					A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+					A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 10 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 10 cold damage.
 					
-					At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot.
+					At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot (base 5)
 				
 				Phantasmal Force:
 					Casting Time: 1 action
