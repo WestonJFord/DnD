@@ -5,7 +5,7 @@ Quick notes:
 		Extra attack: Can attack twice during an attack action
 		Mystic Frenzy: When you use your action to cast a cantrip, you can immediately make one weapon attack as a bonus action
 
-		rapier damage: (with Crimson Rite): 1d8+7 pierce (magical) + (1d6 lightning/fire)
+		rapier damage: (with Crimson Rite) [with flame tongue]: 1d8+7 pierce (magical) + (1d6 lightning/fire) + [2d6 fire]
 
 		hit calculations:
 			attack 1: 7 + 8 = 15
