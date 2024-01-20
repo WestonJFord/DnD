@@ -1,6 +1,6 @@
 Quick notes:
 	On attack:
-		With Rapier (only): +2 bonus damage (dueling fighting style)
+		With Rapier (only weapon held): +2 bonus damage (dueling fighting style)
 		Crimson Rite: attacks with active weapon are magical and deal extra damage equal to your hemocraft die (1d6) of the rite damage type
 		Extra attack: Can attack twice during an attack action
 		Mystic Frenzy: When you use your action to cast a cantrip, you can immediately make one weapon attack as a bonus action
@@ -63,8 +63,8 @@ Blood Hunter:
 		Lv 7: Rite of the Flame (Fire damage)
 		lv 14:
 
-	You choose one rite from the crimson rites below when you first gain this feature. You learn an additional crimson rite at 7th level, and again at 14th level.
-	Crimson Rites
+	Grim Psychometry
+		When you reach 9th level, you gain a supernatural talent for discerning the secrets surrounding mysterious relics or places touched by evil. Whenever you make an Intelligence (History) check to recall information about the sinister or tragic history of an object you are touching or your current location, you have advantage on the check. At the DM’s discretion, a suitably high roll might cause your character to experience brief visions of the past connected to the object or location.
 
 	Order of the Profane Soul:
 		Rite Focus:
@@ -142,7 +142,6 @@ Resources:
 
 	guides:
 		https://rpgbot.net/dnd5/characters/classes/matt-mercers-blood-hunter/v2/
-		https://rpgbot.net/dnd5/characters/classes/warlock/subclasses/genie/
 	
 	File link:
 		https://1drv.ms/t/s!AkPQrR-StEovnN9uTPyl0gu9Bg6tsQ?e=YXDF9O
