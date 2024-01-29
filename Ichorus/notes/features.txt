@@ -8,10 +8,8 @@ Quick notes:
 		rapier damage: (with Crimson Rite) [with flame tongue]: 1d8+7 pierce (magical) + (1d6 lightning/fire) + [2d6 fire]
 
 		hit calculations:
-			attack 1: 7 + 8 = 15
-			attack 2: 16 + 8 = 24
-
-			1, 4, 4
+			attack 1: 7 + 8 = 
+			attack 2: 8 + 8 = 
 
 	On failing any attack roll, ability check, or saving throw:
 		You can gain a bonus to the roll equal to the number of visible allies within 30 feet (<=5) once per short/long rest (Saving Face)
